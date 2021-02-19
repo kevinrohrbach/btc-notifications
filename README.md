@@ -1,4 +1,4 @@
-### BTC Notifications via Telegram bot
+# BTC Notifications via Telegram bot
 
 ## What is this?
 
