@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Configs
-config
+/config
 .config
 
 #Mac Spotlight files
